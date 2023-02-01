@@ -1,0 +1,16 @@
+C:\Users\Puja\source\repos\ExceptionAndExceptionHeadling3\bin\Debug\net5.0\ExceptionAndExceptionHeadling3.exe
+C:\Users\Puja\source\repos\ExceptionAndExceptionHeadling3\bin\Debug\net5.0\ExceptionAndExceptionHeadling3.deps.json
+C:\Users\Puja\source\repos\ExceptionAndExceptionHeadling3\bin\Debug\net5.0\ExceptionAndExceptionHeadling3.runtimeconfig.json
+C:\Users\Puja\source\repos\ExceptionAndExceptionHeadling3\bin\Debug\net5.0\ExceptionAndExceptionHeadling3.runtimeconfig.dev.json
+C:\Users\Puja\source\repos\ExceptionAndExceptionHeadling3\bin\Debug\net5.0\ExceptionAndExceptionHeadling3.dll
+C:\Users\Puja\source\repos\ExceptionAndExceptionHeadling3\bin\Debug\net5.0\ref\ExceptionAndExceptionHeadling3.dll
+C:\Users\Puja\source\repos\ExceptionAndExceptionHeadling3\bin\Debug\net5.0\ExceptionAndExceptionHeadling3.pdb
+C:\Users\Puja\source\repos\ExceptionAndExceptionHeadling3\obj\Debug\net5.0\ExceptionAndExceptionHeadling3.csproj.AssemblyReference.cache
+C:\Users\Puja\source\repos\ExceptionAndExceptionHeadling3\obj\Debug\net5.0\ExceptionAndExceptionHeadling3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Puja\source\repos\ExceptionAndExceptionHeadling3\obj\Debug\net5.0\ExceptionAndExceptionHeadling3.AssemblyInfoInputs.cache
+C:\Users\Puja\source\repos\ExceptionAndExceptionHeadling3\obj\Debug\net5.0\ExceptionAndExceptionHeadling3.AssemblyInfo.cs
+C:\Users\Puja\source\repos\ExceptionAndExceptionHeadling3\obj\Debug\net5.0\ExceptionAndExceptionHeadling3.csproj.CoreCompileInputs.cache
+C:\Users\Puja\source\repos\ExceptionAndExceptionHeadling3\obj\Debug\net5.0\ExceptionAndExceptionHeadling3.dll
+C:\Users\Puja\source\repos\ExceptionAndExceptionHeadling3\obj\Debug\net5.0\ref\ExceptionAndExceptionHeadling3.dll
+C:\Users\Puja\source\repos\ExceptionAndExceptionHeadling3\obj\Debug\net5.0\ExceptionAndExceptionHeadling3.pdb
+C:\Users\Puja\source\repos\ExceptionAndExceptionHeadling3\obj\Debug\net5.0\ExceptionAndExceptionHeadling3.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExceptionAndExceptionHeadling3/1.0.0": {
+        "runtime": {
+          "ExceptionAndExceptionHeadling3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExceptionAndExceptionHeadling3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
